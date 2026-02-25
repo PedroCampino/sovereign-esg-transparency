@@ -1,0 +1,33 @@
+,feature,mean_abs_shap
+13,Renewable electricity output (% of total electricity output),2.5966349
+4,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),1.6888359
+1,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),0.84481436
+12,Fossil fuel energy consumption (% of total),0.6747709
+8,Electricity production from coal sources (% of total),0.6741378
+21,Standardised Precipitation-Evapotranspiration Index,0.6405038
+27,"Annual freshwater withdrawals, total (% of internal resources)",0.6111243
+20,Population density (people per sq. km of land area),0.40097758
+22,Agricultural land (% of land area),0.3707433
+6,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),0.3206009
+3,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),0.27550283
+18,Land Surface Temperature,0.242093
+0,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.22353254
+23,"Agriculture, forestry, and fishing, value added (% of GDP)",0.21802732
+24,Food production index (2014-2016 = 100),0.21216367
+25,"Adjusted savings, natural resources depletion (% of GNI)",0.13741268
+14,Renewable energy consumption (% of total final energy consumption),0.1339974
+31,CPI,0.13073313
+28,Forest area (% of land area),0.11466569
+19,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,0.1073064
+15,Cooling Degree Days,0.10611413
+29,Terrestrial and marine protected areas (% of total territorial area),0.08621145
+2,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),0.08496904
+10,Energy intensity level of primary energy (MJ/$2017 PPP GDP),0.080628395
+17,Heating Degree Days,0.0629915
+5,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),0.058418408
+30,Tree Cover Loss,0.050782334
+26,"Adjusted savings, net forest depletion (% of GNI)",0.049475886
+9,"Energy imports, net (% of energy use)",0.043706845
+7,Total greenhouse gas emissions per capita excluding LULUCF (t CO2e/capita),0.03851291
+11,Energy use (kg of oil equivalent per capita),0.01554358
+16,Heat Index 35,0.0015087909

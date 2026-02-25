@@ -1,0 +1,32 @@
+,feature,mean_abs_shap
+4,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),2.0984657
+13,Renewable electricity output (% of total electricity output),2.0654597
+1,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),0.9328401
+27,"Annual freshwater withdrawals, total (% of internal resources)",0.78527915
+8,Electricity production from coal sources (% of total),0.78051215
+21,Standardised Precipitation-Evapotranspiration Index,0.62068844
+22,Agricultural land (% of land area),0.57012147
+12,Fossil fuel energy consumption (% of total),0.5679863
+20,Population density (people per sq. km of land area),0.34658214
+0,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.33092514
+3,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),0.29677212
+24,Food production index (2014-2016 = 100),0.20309944
+14,Renewable energy consumption (% of total final energy consumption),0.19995013
+18,Land Surface Temperature,0.18214881
+25,"Adjusted savings, natural resources depletion (% of GNI)",0.17594732
+23,"Agriculture, forestry, and fishing, value added (% of GDP)",0.17556855
+15,Cooling Degree Days,0.15464573
+28,Forest area (% of land area),0.13228706
+19,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,0.11550611
+6,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),0.104268536
+5,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),0.08568013
+2,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),0.08216852
+29,Terrestrial and marine protected areas (% of total territorial area),0.06712373
+26,"Adjusted savings, net forest depletion (% of GNI)",0.044367623
+10,Energy intensity level of primary energy (MJ/$2017 PPP GDP),0.043274403
+9,"Energy imports, net (% of energy use)",0.039890792
+7,Total greenhouse gas emissions per capita excluding LULUCF (t CO2e/capita),0.030554745
+30,Tree Cover Loss,0.029619334
+11,Energy use (kg of oil equivalent per capita),0.012936209
+17,Heating Degree Days,0.010981078
+16,Heat Index 35,0.002656792
