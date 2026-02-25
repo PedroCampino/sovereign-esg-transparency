@@ -1,0 +1,32 @@
+,feature,mean_abs_shap
+13,Renewable electricity output (% of total electricity output),2.5376196
+4,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),1.6030641
+8,Electricity production from coal sources (% of total),0.8567052
+1,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),0.8008155
+27,"Annual freshwater withdrawals, total (% of internal resources)",0.65200347
+21,Standardised Precipitation-Evapotranspiration Index,0.6138151
+22,Agricultural land (% of land area),0.5999176
+12,Fossil fuel energy consumption (% of total),0.55994296
+3,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),0.36572355
+10,Energy intensity level of primary energy (MJ/$2017 PPP GDP),0.25230008
+18,Land Surface Temperature,0.24521402
+20,Population density (people per sq. km of land area),0.24163322
+14,Renewable energy consumption (% of total final energy consumption),0.23537341
+6,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),0.19885565
+0,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.19766013
+25,"Adjusted savings, natural resources depletion (% of GNI)",0.18207225
+24,Food production index (2014-2016 = 100),0.17277357
+15,Cooling Degree Days,0.1319099
+28,Forest area (% of land area),0.13098791
+19,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,0.09591287
+29,Terrestrial and marine protected areas (% of total territorial area),0.095673226
+23,"Agriculture, forestry, and fishing, value added (% of GDP)",0.07311102
+2,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),0.06997412
+5,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),0.0681467
+26,"Adjusted savings, net forest depletion (% of GNI)",0.04943786
+30,Tree Cover Loss,0.049387567
+17,Heating Degree Days,0.036857672
+7,Total greenhouse gas emissions per capita excluding LULUCF (t CO2e/capita),0.02462299
+9,"Energy imports, net (% of energy use)",0.016628757
+11,Energy use (kg of oil equivalent per capita),0.013011973
+16,Heat Index 35,0.010749495
