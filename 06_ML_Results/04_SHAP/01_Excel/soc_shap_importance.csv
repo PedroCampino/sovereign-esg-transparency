@@ -1,0 +1,20 @@
+feature,mean_abs_shap
+Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),7.351621
+People using safely managed sanitation services (% of population),2.481705
+"Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)",1.4982569
+"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",0.6294338
+Prevalence of overweight (% of adults),0.551567
+"Unemployment, total (% of total labor force) (modeled ILO estimate)",0.4809728
+People using safely managed drinking water services (% of population),0.35638523
+"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",0.26889634
+Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),0.23181598
+"Life expectancy at birth, total (years)",0.16687171
+"Government expenditure on education, total (% of government expenditure)",0.16090362
+"Fertility rate, total (births per woman)",0.12513623
+"Mortality rate, under-5 (per 1,000 live births)",0.12014659
+Gini index,0.12001369
+Poverty headcount ratio at national poverty lines (% of population),0.09148854
+"Hospital beds (per 1,000 people)",0.09023996
+"School enrollment, primary (% gross)",0.06880903
+Access to clean fuels and technologies for cooking  (% of population),0.068413325
+Prevalence of undernourishment (% of population),0.053394545

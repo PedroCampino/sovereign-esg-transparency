@@ -1,0 +1,12 @@
+feature,mean_abs_shap
+Rule of Law: Estimate,5.25356
+Research and development expenditure (% of GDP),4.8993225
+Voice and Accountability: Estimate,3.0939353
+Government Effectiveness: Estimate,2.80979
+Proportion of seats held by women in national parliaments (%),1.4412026
+"Patent applications, residents",1.1753188
+Economic and Social Rights Performance Score,0.8700922
+Individuals using the Internet (% of population),0.6956019
+Political Stability and Absence of Violence/Terrorism: Estimate,0.2946597
+Ratio of female to male labor force participation rate (%) (modeled ILO estimate),0.26087466
+Net migration,0.12191497

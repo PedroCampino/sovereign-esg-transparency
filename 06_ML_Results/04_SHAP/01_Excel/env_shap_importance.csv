@@ -1,0 +1,23 @@
+feature,mean_abs_shap
+"Annual freshwater withdrawals, total (% of internal resources)",2.5643916
+Renewable electricity output (% of total electricity output),2.0605361
+Fossil fuel energy consumption (% of total),1.4494213
+Electricity production from coal sources (% of total),0.8044241
+Standardised Precipitation-Evapotranspiration Index,0.79060155
+Food production index (2014-2016 = 100),0.42526323
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,0.37682876
+"Adjusted savings, natural resources depletion (% of GNI)",0.36821744
+Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),0.24891964
+Renewable energy consumption (% of total final energy consumption),0.24592358
+Cooling Degree Days,0.22119834
+Energy intensity level of primary energy (MJ/$2021 PPP GDP),0.21875378
+Tree Cover Loss,0.19153279
+Total greenhouse gas emissions per capita excluding LULUCF (t CO2e/capita),0.18825215
+Terrestrial and marine protected areas (% of total territorial area),0.1787047
+"Adjusted savings, net forest depletion (% of GNI)",0.13917737
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.12567243
+Energy use (kg of oil equivalent per capita),0.11629703
+Heating Degree Days,0.0869048
+"Agriculture, forestry, and fishing, value added (% of GDP)",0.08503078
+Forest area (% of land area),0.06856806
+"Energy imports, net (% of energy use)",0.053538084
