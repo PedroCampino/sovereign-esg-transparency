@@ -1,0 +1,79 @@
+,ESG Pillar,Group,Indicator code,Indicator name
+0,Environment,Emissions & pollution,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)"
+1,Environment,Emissions & pollution,EN.GHG.CO2.MT.CE.AR5,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e)
+2,Environment,Emissions & pollution,EN.GHG.CO2.PC.CE.AR5,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)
+3,Environment,Emissions & pollution,EN.GHG.CO2.LU.MT.CE.AR5,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e)
+4,Environment,Emissions & pollution,EN.GHG.CH4.MT.CE.AR5,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e)
+5,Environment,Emissions & pollution,EN.GHG.N2O.MT.CE.AR5,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e)
+6,Environment,Emissions & pollution,EN.GHG.ALL.MT.CE.AR5,Total greenhouse gas emissions excluding LULUCF (Mt CO2e)
+7,Environment,Emissions & pollution,EN.GHG.ALL.PC.CE.AR5,Total greenhouse gas emissions per capita excluding LULUCF (t CO2e/capita)
+8,Environment,Energy use & security,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total)
+9,Environment,Energy use & security,EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)"
+10,Environment,Energy use & security,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP)
+11,Environment,Energy use & security,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita)
+12,Environment,Energy use & security,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total)
+13,Environment,Energy use & security,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output)
+14,Environment,Energy use & security,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption)
+15,Environment,Climate risk & resilience,EN.CLC.CSTP.ZS,Coastal protection
+16,Environment,Climate risk & resilience,EN.CLC.CDDY.XD,Cooling Degree Days
+17,Environment,Climate risk & resilience,EN.CLC.HEAT.XD,Heat Index 35
+18,Environment,Climate risk & resilience,EN.CLC.HDDY.XD,Heating Degree Days
+19,Environment,Climate risk & resilience,EN.LND.LTMP.DC,Land Surface Temperature
+20,Environment,Climate risk & resilience,ER.H2O.FWST.ZS,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources
+21,Environment,Climate risk & resilience,EN.POP.DNST,Population density (people per sq. km of land area)
+22,Environment,Climate risk & resilience,EN.H2O.BDYS.ZS,Proportion of bodies of water with good ambient water quality
+23,Environment,Climate risk & resilience,EN.CLC.SPEI.XD,Standardised Precipitation-Evapotranspiration Index
+24,Environment,Food Security,AG.LND.AGRI.ZS,Agricultural land (% of land area)
+25,Environment,Food Security,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)"
+26,Environment,Food Security,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100)
+27,Environment,Natural capital endowment & management,NY.ADJ.DRES.GN.ZS,"Adjusted savings, natural resources depletion (% of GNI)"
+28,Environment,Natural capital endowment & management,NY.ADJ.DFOR.GN.ZS,"Adjusted savings, net forest depletion (% of GNI)"
+29,Environment,Natural capital endowment & management,ER.H2O.FWTL.ZS,"Annual freshwater withdrawals, total (% of internal resources)"
+30,Environment,Natural capital endowment & management,AG.LND.FRST.ZS,Forest area (% of land area)
+31,Environment,Natural capital endowment & management,EN.MAM.THRD.NO,"Mammal species, threatened"
+32,Environment,Natural capital endowment & management,AG.LND.PFLS.HA,Primary Forest Loss
+33,Environment,Natural capital endowment & management,ER.PTD.TOTL.ZS,Terrestrial and marine protected areas (% of total territorial area)
+34,Environment,Natural capital endowment & management,AG.LND.FRLS.HA,Tree Cover Loss
+35,Social,Access to Services,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population)
+36,Social,Access to Services,EG.ELC.ACCS.ZS,Access to electricity (% of population)
+37,Social,Access to Services,SH.H2O.SMDW.ZS,People using safely managed drinking water services (% of population)
+38,Social,Access to Services,SH.STA.SMSS.ZS,People using safely managed sanitation services (% of population)
+39,Social,Demography,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)"
+40,Social,Demography,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)"
+41,Social,Demography,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population)
+42,Social,Education & skills,SE.XPD.TOTL.GB.ZS,"Government expenditure on education, total (% of government expenditure)"
+43,Social,Education & skills,SE.ADT.LITR.ZS,"Literacy rate, adult total (% of people ages 15 and above)"
+44,Social,Education & skills,SE.PRM.ENRR,"School enrollment, primary (% gross)"
+45,Social,Employment,SL.TLF.0714.ZS,"Children in employment, total (% of children ages 7-14)"
+46,Social,Employment,SL.TLF.ACTI.ZS,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)"
+47,Social,Employment,SL.UEM.NEET.ME.ZS,"Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)"
+48,Social,Employment,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)"
+49,Social,Employment,SL.EMP.WORK.ZS,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)"
+50,Social,Health & Nutrition,SH.DTH.COMM.ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)"
+51,Social,Health & Nutrition,SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)"
+52,Social,Health & Nutrition,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)"
+53,Social,Health & Nutrition,SH.STA.OWAD.ZS,Prevalence of overweight (% of adults)
+54,Social,Health & Nutrition,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population)
+55,Social,Poverty & Inequality,SI.POV.GINI,Gini index
+56,Social,Poverty & Inequality,SI.DST.FRST.20,Income share held by lowest 20%
+57,Social,Poverty & Inequality,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population)
+58,Social,Poverty & Inequality,SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population)
+59,Social,Poverty & Inequality,SI.POV.NAHC,Poverty headcount ratio at national poverty lines (% of population)
+60,Social,Poverty & Inequality,SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day)
+61,Governance,Economic Environment,NY.GDP.MKTP.KD.ZG,GDP (annual % growth)
+62,Governance,Economic Environment,IT.NET.USER.ZS,Individuals using the Internet (% of population)
+63,Governance,Gender,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%)
+64,Governance,Gender,SL.TLF.CACT.FM.ZS,Ratio of female to male labor force participation rate (%) (modeled ILO estimate)
+65,Governance,Gender,SE.ENR.PRSC.FM.ZS,"School enrollment, primary and secondary (gross), gender parity index (GPI)"
+66,Governance,Gender,SP.UWT.TFRT,Unmet need for contraception (% of married women ages 15-49)
+67,Governance,Government Effectiveness,GE.EST,Government Effectiveness: Estimate
+68,Governance,Government Effectiveness,RQ.EST,Regulatory Quality: Estimate
+69,Governance,Human Rights,SD.ESR.PERF.XQ,Economic and Social Rights Performance Score
+70,Governance,Human Rights,VA.EST,Voice and Accountability: Estimate
+71,Governance,Innovation,IP.PAT.RESD,"Patent applications, residents"
+72,Governance,Innovation,GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP)
+73,Governance,Innovation,IP.JRN.ARTC.SC,Scientific and technical journal articles
+74,Governance,Stability & Rule of Law,CC.EST,Control of Corruption: Estimate
+75,Governance,Stability & Rule of Law,SM.POP.NETM,Net migration
+76,Governance,Stability & Rule of Law,PV.EST,Political Stability and Absence of Violence/Terrorism: Estimate
+77,Governance,Stability & Rule of Law,RL.EST,Rule of Law: Estimate
